@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Deploy
+
+**Embryo Deploy** is Embryo-Zero's fork of [coolify](https://github.com/coollabsio/coolify), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
 
 <img src="./public/coolify-logo.svg" alt="Coolify logo" width="120" />
